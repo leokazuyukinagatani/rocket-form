@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Capa do projeto" src="images/background.png" width="100%">
+  <img alt="Capa do projeto" src="images/image.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -11,12 +11,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Rocket.sect é site sobre segurança da informação, ele foi elaborado no desafio do Stage02 no programa Explorer da Rocketseat.
+O projeto Rocket.form é site que possui um formulário para avaliação de mentorias, ele foi elaborado no desafio do Stage03 no programa Explorer da Rocketseat.
 
-- [Página](https://leokazuyukinagatani.github.io/rocket-sect//)
+- [Página](https://leokazuyukinagatani.github.io/rocket-form/)
 
 ## 🔖 Layout
 
 No link abaixo você encontra o layout do projeto web. Lembrando que você precisa ter uma conta no [Figma](http://figma.com/) para acessá-lo.
 
-- [Layout Web](https://www.figma.com/file/MUtMfcJGhPyppDbd1dOp3X/Explorer-(Copy)?node-id=0%3A1)
+- [Layout Web](https://www.figma.com/file/fnZyJHs7eqNFAA7tUrKcsD/Stage-03---Formul%C3%A1rio-avan%C3%A7ado?node-id=0%3A1)
