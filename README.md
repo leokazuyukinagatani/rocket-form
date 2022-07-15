@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Capa do projeto" src="images/rocket-sect.png" width="100%">
+  <img alt="Capa do projeto" src="images/background.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
